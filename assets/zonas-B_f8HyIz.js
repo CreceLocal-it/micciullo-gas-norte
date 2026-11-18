@@ -1,0 +1,1 @@
+import{m as e}from"./bloques-BKWf1epF.js";import{t}from"./SitePage-WEEQhbf2.js";var n=e(),r=()=>(0,n.jsx)(t,{page:`zonas`});export{r as component};
